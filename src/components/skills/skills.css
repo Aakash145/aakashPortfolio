@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.skillSet{
+    display: block;
+}
+
+#skillId{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#skillTitle{
+    font-weight: 700;
+    line-height: 1.25;
+    font-size: 3rem;
+    margin-bottom: .5rem;
+    margin-left: -56rem;
+}
+
+#skillDetails{
+    margin-left: -27.5rem;
+}
+
+#eachSkill{
+    font-family: merriweather,serif;
+    color: #0096cc;
+    background-color: #f5f8fa;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0,0,0,.125);
+    padding: 1rem;
+    margin: 0.5rem;
+}
+
+.web{
+    text-align: center;
+
+}
+
+.web h3{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    white-space: nowrap;
+}
