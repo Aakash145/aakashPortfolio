@@ -116,3 +116,37 @@ i span{
     border: 1px solid transparent;
     padding: 1rem;
 }
+
+@media screen and (max-width: 767px) {
+
+    main{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .contact h3{
+        padding: 1.3rem 0rem;
+        padding-left: 0rem;
+
+    }
+    i span{
+      display: none;
+    }
+
+    .socialMedia a{
+        padding: 0.5rem 0rem;
+        padding-right: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    .about{
+        padding-bottom: 1rem;
+    }
+    .contact{
+        border-top: 1px solid transparent;
+        border-color: rgba(0,0,0,.125);
+        width: 100%;
+    }
+
+}

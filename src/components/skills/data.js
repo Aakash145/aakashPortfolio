@@ -4,7 +4,7 @@ export const skillSet = [
         tech: "HTML, CSS, SASS, JavaScript, NodeJS, BootStrap, JQuery, ReactJS"
     },
     {
-        title: "Programming",
+        title: "Language",
         tech: "C#, .NET, Java, Spring Boot, PhP"
     },
     {

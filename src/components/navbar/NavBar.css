@@ -8,6 +8,7 @@
 
 nav{
     display: flex;
+    flex-wrap: wrap;
     line-height: 3rem;
     align-items: center;
     justify-content: space-between;
@@ -58,5 +59,32 @@ li a:hover{
     color: #0096cc;
     background-color: #f5f8fa;
     transition: 0.2s;
+}
+
+.hamburger{
+    display: none;
+    border: 0;
+    cursor: pointer;
+}
+
+.hamburger:focus {
+    outline: none;
+}
+
+@media screen and (max-width: 767px) {
+    .nav-menu{
+        display: none;
+        flex-direction: column;
+        width: 100%;
+    }
+    .nav-menu.active{
+        display: flex;
+    }
+
+    .hamburger{
+        display: block;
+        margin: 15px 15px;
+    }
+
 }
 

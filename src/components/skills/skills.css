@@ -38,11 +38,92 @@
 
 .web{
     text-align: center;
-
+    padding-bottom: 2rem;
 }
 
 .web h3{
     padding-left: 1rem;
     padding-right: 1rem;
     white-space: nowrap;
+}
+
+@media screen and (max-width: 767px) {
+
+    section{
+        padding: 1rem;   
+    }
+
+    main{
+        padding-left: 16px;
+        width: 100%;
+    }
+
+    #skillTitle, #skillDetails h3{
+        font-weight: 700;
+        line-height: 1.25;
+        font-size: 2rem;
+        margin-bottom: 0rem;
+        margin-left: 0px;
+        text-align: left;
+    }
+    
+    #skillDetails{
+        margin-left: 0rem;
+        text-align: left;
+        font-size: 1rem;
+        margin-left: 0rem;
+
+    }
+
+
+    #skillId{
+        display: grid;
+        grid-template-columns: 1fr;
+        padding-bottom: 1rem;
+    }
+
+    .web{
+        padding-bottom: 1.5rem;
+    }
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+    section{
+        padding: 2rem;   
+    }
+
+    main{
+        padding: auto;
+    }
+
+    #skillTitle, #skillDetails h3{
+        font-weight: 700;
+        line-height: 1.25;
+        font-size: 2rem;
+        margin-bottom: 0rem;
+        margin-left: 0px;
+        text-align: left;
+    }
+    
+    #skillDetails{
+        margin-left: 0rem;
+        text-align: left;
+        font-size: 1rem;
+    }
+    .web{
+        overflow: hidden;
+        padding-left: 0rem;
+        padding-right: 0rem;
+        white-space: nowrap;
+    }
+    .web h3{
+        overflow: hidden;
+        padding-left: 0.3rem;
+        padding-right: 0rem;
+    }
+
 }

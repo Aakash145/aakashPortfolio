@@ -1,8 +1,8 @@
-import homeStay from './homeStay.png'
-import healthTurtle from './healthTurtle.png'
-import nda from './nda.jpeg'
-import salon from './salon.png'
-import feedTheBelly from './feedTheBelly.png'
+import homeStay from '../../assets/images/homeStay.png'
+import healthTurtle from '../../assets/images/healthTurtle.png'
+import nda from '../../assets/images/nda.jpeg'
+import salon from '../../assets/images/salon.png'
+import feedTheBelly from '../../assets/images/feedTheBelly.png'
 
 export const projects = [
     {

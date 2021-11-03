@@ -66,7 +66,7 @@ section{
 }
 
 #projDetails{
-    margin-left: -35rem;
+    margin-left: -34rem;
 }
 
 .projDescription{
@@ -82,4 +82,86 @@ section{
     font-size: 1rem;
     margin-top: 0;
     margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 767px) {
+
+    div #containsImage{
+        width:100%;
+
+    }
+
+    section{
+        padding: 1rem;   
+    }
+
+    main{
+        padding: auto;
+    }
+
+    #projTitle, #projectDetails h3{
+        font-weight: 700;
+        line-height: 1.25;
+        font-size: 2rem;
+        margin-bottom: 0rem;
+        margin-left: 0px;
+        text-align: left;
+    }
+    
+    #projDetails{
+        margin-left: 0rem;
+        text-align: left;
+        font-size: 1rem;
+        
+    }
+
+
+    .project{
+        display: grid;
+        grid-template-columns: 1fr;
+        overflow: hidden;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+
+    #projectDetails{
+        overflow: hidden;
+    }
+
+    #containsLinks{
+        overflow: hidden;
+        word-wrap: break-word;
+    }
+
+}
+
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+    section{
+        padding: 2rem;   
+    }
+
+    main{
+        padding: auto;
+    }
+
+    #projTitle, #projectDetails h3{
+        font-weight: 700;
+        line-height: 1.25;
+        font-size: 2rem;
+        margin-bottom: 0rem;
+        margin-left: 0px;
+        text-align: left;
+    }
+    
+    #projDetails{
+        margin-left: 0rem;
+        text-align: left;
+        font-size: 1rem;
+        
+    }
+
 }

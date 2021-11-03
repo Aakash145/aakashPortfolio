@@ -1,11 +1,11 @@
-import bosa from './bosa.png'
-import douglas from './douglas.png'
-import shopclues from './shopclues.png'
-import sebiz from './sebiz.jpeg'
-import nic from './nic.jpeg'
-import staples from './staples.png'
-import guardteck from './guardteck.jpeg'
-import panago from './panago.png'
+import bosa from '../../assets/images/bosa.png'
+import douglas from '../../assets/images/douglas.png'
+import shopclues from '../../assets/images/shopclues.png'
+import sebiz from '../../assets/images/sebiz.jpeg'
+import nic from '../../assets/images/nic.jpeg'
+import staples from '../../assets/images/staples.png'
+import guardteck from '../../assets/images/guardteck.jpeg'
+import panago from '../../assets/images/panago.png'
 
 export const workExp = [
     {
