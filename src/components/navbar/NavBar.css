@@ -48,11 +48,12 @@ li a{
     padding: 1rem;
 }
 
-li a:hover{
+li a:focus{
     color: #0096cc;
     background-color: #f5f8fa;
     transition: 0.2s;
 }
+
 
 
 #nameLink a:hover{

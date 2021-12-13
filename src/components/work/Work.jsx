@@ -30,7 +30,7 @@ export default function Work(){
         <div className="workExp">
         <section>
         <h3 id="expTitle">Work Experience.</h3>
-        <h2 id="expDetails">Here is my techincal and non-technical skills!</h2>
+        <h2 id="expDetails">Here is the experience I've gained by working at different organisations!</h2>
         </section>
         <main id="workType">
         <div id="buttonTech">
@@ -45,7 +45,13 @@ export default function Work(){
                     <div id="workDiv">
                     <h3>{work.company}</h3>
                     <p id="workRole">{work.role}</p>
-                    <p class="workRes">Responsibilities: {work.responsibilites}</p>
+                    <p class="workRes">Responsibilities: 
+                    <ul>
+                    {work.responsibilites.split(".").map((exp) => (
+                        <li>{exp}</li>
+                        ))}
+                        </ul>
+                        </p>
                     </div>
                 </div>
         ))}

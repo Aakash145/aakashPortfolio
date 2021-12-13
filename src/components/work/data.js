@@ -13,7 +13,7 @@ export const workExp = [
       role: "Software Development Engineer in Test",
       type: "technical",
       responsibilites:
-        "Responsible for designing and development of technical infrastructure of the test automation suite using latest technologies like Selenium Grid, Docker, and AWS cloud solutions. Development and modification of both automated and manual software test plans that accurately gauge product quality. Conducting system performance and stress testing, working with stakeholders determining the volume to be used during the performance test. Work closely with development team on the design and implementation of enhancements based on new software requirement using React JS Library and Salesforce.",
+      "Successfully led the design and implementation of automation testing infrastructure, established formal frameworks, standards and processes using technologies like Selenium.Responsible for development and execution of moderate to highly complex scripted automation tests improving the bug detection and report generation by 20%.Worked closely with development team, application support team on the design and implementation of enhancements to the existing application using .NET framework.Involved in development of elegant and responsive user interfaces using technologies like HTML5, CSS3, SASS and JavaScript libraries like React JS.Involved in the definition of the Test strategy and implementation of necessary infrastructure to support Test documentation, test plans and test cases",
       image: bosa,
     },
     {
@@ -21,7 +21,7 @@ export const workExp = [
       role: "IT Support Analyst Intern",
       type: "technical",
       responsibilites:
-        "Provided Computer Help Desk Support via telephone and email communications to the end- users by resolving an average of 20 queries a day. Performed diagnostics and troubleshooting of the system issues, document help desk tickets and maintain the computer equipment inventory lists. Developed a dashboard for the College System using Power BI and Microsoft Excel which helped generating automated reports every month.",
+      "Performed user account maintenance, managed incidents, and provided resolution for end-user’s technical challenges by troubleshooting and diagnosing their systems.Provided business capability of generating own reports by developing a reporting dashboard using Power Apps which helped generate automated help desk reports every month.Created test automation scripts and worked closely with development team to identify issues and key areas for improvement and optimization.Monitored applications for any performance issues and communicate issues to key stakeholders, including management, end users and development team",
       image: douglas,
     },
     {
@@ -29,7 +29,7 @@ export const workExp = [
         role: "Software Developer",
         type: "technical",
         responsibilites:
-          "Responsible for creating project plan, business process requirements, test specifications and test results.	Monitored, maintained and provided reports for bug tracking and defect resolution to the team and assisted in process improvement in these areas.	Developed and maintained automation test suites and scripts using tools like Selenium and JMeter to drive quality and efficiency improvements for the e-commerce platform.",
+        "Involved in the UI design and development for the e-commerce web application using HTML, CSS and ReactJS leading to websites scoring over 85 on Lighthouse.Integrated the web app with REST/SOAP and other APIs for Google maps, social media logins and payment processing’s like Paytm.Participated in code reviews with the product team and gained experience in writing custom, scalable code using .NET framework.Reduced the size of CSS and JavaScript files by almost 10% which reduced defects and page load times through monitoring the code whilst maintaining the UI",
         image: shopclues,
     },
     {
@@ -37,7 +37,7 @@ export const workExp = [
         role: "Software Developer Intern",
         type: "technical",
         responsibilites:
-          "Developed and customized interactive user interfaces using web technologies like HTML, CSS, JavaScript that ensured great user experience and met key performance indicators. Revamped modules of the web application using Spring Framework and older J2EE. Conducted user requirements analysis to design and program applications and deliver support for system enhancement.",
+        "Developed and customized interactive user interfaces using web technologies like HTML, CSS, JavaScript that ensured great user experience and met key performance indicators.Revamped modules of the web application using Spring Framework and older J2EE.Conducted user requirements analysis to design and program applications and deliver support for system enhancement",
         image: sebiz,
       },
     {
@@ -53,7 +53,7 @@ export const workExp = [
         role: "Admin Assistant",
         type: "non-technical",
         responsibilites:
-          "Enforced the Shopping Mall’s rules and regulations and responded to calls from service varying from Tenant/Customer assists, thefts, fight to medical emergencies. Assisted the Management of the mall with daily administrative duties and documenting the incidents and daily log for monthly review",
+        "Enforced the Shopping Mall’s rules and regulations and responded to calls from service varying from Tenant/Customer assists, thefts, fight to medical emergencies.Assisted the Management of the mall with daily administrative duties and documenting the incidents and daily log for monthly review",
         image: guardteck,
     },
     {
@@ -61,7 +61,7 @@ export const workExp = [
         role: "Customer Service Representative",
         type: "non-technical",
         responsibilites:
-          "Resolved an average of 90 customer enquiries in a day and consistently met performance benchmarks in all areas by receiving 97% Customer Satisfaction ratings. •	Collaborated with team to quickly resolve customer complaints with appropriate action and to assist managers with administrative tasks",
+          "Resolved an average of 90 customer enquiries in a day and consistently met performance benchmarks in all areas by receiving 97% Customer Satisfaction ratings.Collaborated with team to quickly resolve customer complaints with appropriate action and to assist managers with administrative tasks",
         image: panago,
     },
     {
@@ -69,7 +69,7 @@ export const workExp = [
         role: "Technical Sales Associate",
         type: "non-technical",
         responsibilites:
-          "Responsible for Sales of Technical Equipment",
+          "Responsible for Sales of Technical Equipment. Assisted Customers by providing technical support",
         image: staples,
     }
 

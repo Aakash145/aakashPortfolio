@@ -8,6 +8,10 @@
     display: block;
 }
 
+li{
+    list-style: disc !important;
+}
+
 #expTitle{
     font-weight: 700;
     line-height: 1.25;
@@ -17,7 +21,7 @@
 }
 
 #expDetails{
-    margin-left: -30.5rem;
+    margin-left: -10rem;
 }
 
 #workType{
@@ -42,7 +46,7 @@
     margin: 0.5rem;
 }
 
-.typeOfWork:hover{
+.typeOfWork:focus{
     color: #0096cc;
     background-color: #f5f8fa;
     transition: 0.2s;

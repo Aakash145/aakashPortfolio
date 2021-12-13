@@ -7,17 +7,17 @@ import feedTheBelly from '../../assets/images/feedTheBelly.png'
 export const projects = [
     {
       title: "Home Stay",
-      technology: "HTML5, CSS3, ReactJS, Spring Boot, MongoDB, Machie Learning Libraries",
+      technology: "HTML5, CSS3, ReactJS, Spring Boot, MongoDB, Apache Mahout",
       description:
-        "Full Stack Web Application to help students book affordable rentals based on the rental units provided using analytics and statistics.",
+        "A Full Stack Web Application to help students book affordable rental units based based on recommendations provided by using machine learning libraries.",
       image: homeStay,
       github: "https://github.com/Aakash145/Homestay",
     },
     {
       title: "Funds Outcome Analyzer",
-      technology: "HTML5, CSS3, JavaScript, JQuery, NodeJS, MongoDB, SVG Maps, PowerBI",
+      technology: "HTML5, CSS3, JavaScript, JQuery, NodeJS, MongoDB, PowerBI",
       description:
-        "Award Winning Funds Outcome Analyzer Application that involved analyzing data and generating reports for the funds used by different institutions that were granted by the government.",
+        "An award Winning Funds Outcome Analyzer that involves analyzing data and generating reports for the funds used by different institutions that were granted by the government.",
       image: nda,
       github: "",
     },
@@ -25,15 +25,15 @@ export const projects = [
       title: "Feed the Belly",
       technology: "Android, Firebase, SQLite",
       description:
-        "An android app focussed on acting as a delivery and management system between restaurants and ngo's for the extra food that is left at the end of the day.",
+        "An android app focussed on acting as a food delivery and waste management system for the restaurants and ngo's so that the leftover food/groceries would ne thrown and wasted.",
       image: feedTheBelly,
       github: "https://github.com/Aakash145/Aakash145-W21G4_FeedTheBelly",
     },
     {
         title: "Health Turtle",
-        technology: "HTML5, CSS3, JavaScript, Spring, MySQL, OpenCV",
+        technology: "HTML5, CSS3, JavaScript, Spring Boot, MySQL, OpenCV",
         description:
-          "A Web Application that helps patients and doctors to interact with each other without having in person appointments.",
+          "A Web Application that helps patients and doctors to interact with each other without having to book an in-person appointment.",
         image: healthTurtle,
         github: "https://github.com/Aakash145/BarberAppointmentBooking",
       },
@@ -41,7 +41,7 @@ export const projects = [
       title: "Barber Booking System",
       technology: "HTML5, CSS3, Javascript, PhP, PostgreSQL",
       description:
-        "A Barber Appointment Booking System that would help barbers and customers book appointments and scheduled the same in the scenario like Covid-19.",
+        "A Barber Appointment Booking System that would help barbers and customers book appointments in advance in the scenario's like Covid-19.",
       image: salon,
       github: "https://github.com/Aakash145/BarberAppointmentBooking",
     }

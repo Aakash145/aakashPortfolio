@@ -1,6 +1,8 @@
 import ProfilePic from '../../assets/images/profilePic.png'
 import './about.css'
-
+import { 
+    Link
+   } from 'react-router-dom'
 export default function About(){
     return (
         <div className="aboutSection">
@@ -9,16 +11,18 @@ export default function About(){
         <p id="intro1">Hi, my name is</p>
         <h3>Aakash Saini.</h3>
         <h2>I love<small>/(I try) </small>building things for the web!</h2>
-        <p id="intro2">I'm a software developer based in Vancouver, British Columbia. <br />
-        If you would like to have a conversation about movies, games and life, Ping me!
+        <p id="intro2">I'm a Software Developer based in Vancouver, British Columbia. <br />
+        If you would like to have a conversation about movies, games and life, <small><a href="mailTo:aakashsaini769@gmail.com">Ping me!</a></small>
         </p>
         </section>
         <main>
             <div className="about">
             <h3>About me</h3>
-            <p id="details">Aakash (Sky) Saini loves programming, watching movies, traveling, and tea. He does not love talking about himself in the 3rd person but I don't know why he is doing that right now! 
-            He loves learning new technologies like this portfolio is all made up of ReactJS and core HTML/CSS without the use of any other frameworks.</p>
-            <small>Aakash thinks: </small><q>There's always something to learn, never be afraid just try it out</q>
+            <p id="details">I love spending time on finding annd fixing little issues along with learning new technologies.
+            I've worked as a Full Stack Developer in a major e-commerce platform in India majorly working on transitioning from vanilla JavaScript to React! I've also got the chance 
+            to lead the design and implementation of Test Automation Infrastructure as SDET Intern at a real estate company in Vancouver, BC.
+            </p>
+            <small><Link to="/projects">Check out the stuff I've been working on in the Projects Section!</Link></small>
             </div>
             <div className="contact">
                 <h3>Contact</h3>

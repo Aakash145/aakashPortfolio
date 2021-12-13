@@ -63,6 +63,7 @@ main{
     max-width: 70em;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 1rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 2rem;
@@ -102,7 +103,11 @@ main{
 }
 i span{
     padding-left: 1rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
+    font-family: merriweather,serif;
+    color: #2e2e2e;
+    letter-spacing: .05rem;
+    line-height: 0.5rem;
 }
 
 .fa-facebook span{
@@ -115,6 +120,11 @@ i span{
     font-family: 'Merriweather', serif;
     border: 1px solid transparent;
     padding: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: #0096cc;
 }
 
 @media screen and (max-width: 767px) {
