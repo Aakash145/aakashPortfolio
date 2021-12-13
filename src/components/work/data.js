@@ -10,7 +10,7 @@ import panago from '../../assets/images/panago.png'
 export const workExp = [
     {
       company: "Bosa Properties",
-      role: "Software Development Engineer in Test",
+      role: "Software Development Intern",
       type: "technical",
       responsibilites:
       "Successfully led the design and implementation of automation testing infrastructure, established formal frameworks, standards and processes using technologies like Selenium.Responsible for development and execution of moderate to highly complex scripted automation tests improving the bug detection and report generation by 20%.Worked closely with development team, application support team on the design and implementation of enhancements to the existing application using .NET framework.Involved in development of elegant and responsive user interfaces using technologies like HTML5, CSS3, SASS and JavaScript libraries like React JS.Involved in the definition of the Test strategy and implementation of necessary infrastructure to support Test documentation, test plans and test cases",
