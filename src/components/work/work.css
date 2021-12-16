@@ -143,6 +143,10 @@ li{
             padding-right: 16px;
         }
 
+        .workRes{
+            margin-left: 20px;
+        }
+
     }
 
     @media only screen 

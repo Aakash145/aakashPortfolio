@@ -3,11 +3,20 @@ import healthTurtle from '../../assets/images/healthTurtle.png'
 import nda from '../../assets/images/nda.jpeg'
 import salon from '../../assets/images/salon.png'
 import feedTheBelly from '../../assets/images/feedTheBelly.png'
+import streamSearch from '../../assets/images/stream.png'
 
 export const projects = [
+  {
+    title: "Stream Search (In Progress)",
+    technology: "HTML5, CSS3, Bootstrap, JavaScript, JQuery, ReactJS, NodeJS",
+    description:
+      "Web App to find out information about movies like their descriptiom, runtime, ratings and where are they streaming. It's the movie streaming search engine which also provides top rated movies which can be filtered based on different genres!. It also provides auto-suggestions based upon your search!",
+    image: streamSearch,
+    github: "https://61badea7d9e13b20660a275c--determined-curran-0388f1.netlify.app/",
+  },
     {
       title: "Home Stay",
-      technology: "HTML5, CSS3, ReactJS, Spring Boot, MongoDB, Apache Mahout",
+      technology: "HTML5, CSS3, Bootstrap, ReactJS, Spring Boot, MongoDB, Apache Mahout",
       description:
         "A Full Stack Web Application to help students book affordable rental units based based on recommendations provided by using machine learning libraries.",
       image: homeStay,
