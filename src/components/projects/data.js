@@ -12,7 +12,7 @@ export const projects = [
     description:
       "Web App to find out information about movies like their descriptiom, runtime, ratings and where are they streaming. It's the movie streaming search engine which also provides top rated movies which can be filtered based on different genres!. It also provides auto-suggestions based upon your search!",
     image: streamSearch,
-    github: "https://61badea7d9e13b20660a275c--determined-curran-0388f1.netlify.app/",
+    github: "https://determined-curran-0388f1.netlify.app/",
   },
     {
       title: "Home Stay",

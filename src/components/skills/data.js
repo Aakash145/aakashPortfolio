@@ -5,7 +5,7 @@ export const skillSet = [
     },
     {
         title: "Language",
-        tech: "C#, .NET, Java, Spring Boot, PhP"
+        tech: ".NET Core (C#), Spring Boot (Java), PhP"
     },
     {
         title: "Database",
@@ -13,6 +13,6 @@ export const skillSet = [
     },
     {
         title: "Testing",
-        tech: "Selenium, Selenium Grid, Microsoft Excel"
+        tech: "Selenium, Cypress, Cucumber"
     }
 ]
