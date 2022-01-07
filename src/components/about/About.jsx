@@ -15,7 +15,7 @@ export default function About(){
         If you would like to have a conversation about movies, games and life, <small><a href="mailTo:aakashsaini769@gmail.com">Ping me!</a></small>
         </p>
         </section>
-        <main>
+        <main className="aboutSec">
             <div className="about">
             <h3>About me</h3>
             <p id="details">I love spending time on finding and fixing little issues along with learning new technologies.

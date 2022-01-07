@@ -121,6 +121,11 @@ section{
         padding: auto;
     }
 
+    .project{
+        margin-left: -1rem;
+        margin-right: -1.5rem;
+    }
+
     #projTitle, #projectDetails h3{
         font-weight: 700;
         line-height: 1.25;

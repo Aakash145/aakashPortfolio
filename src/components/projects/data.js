@@ -18,7 +18,7 @@ export const projects = [
       title: "Home Stay",
       technology: "HTML5, CSS3, Bootstrap, ReactJS, Spring Boot, MongoDB, Apache Mahout",
       description:
-        "A Full Stack Web Application to help students book affordable rental units based based on recommendations provided by using machine learning libraries.",
+        "A Full Stack Web Application to help students book affordable rental units based on recommendations provided by using machine learning libraries.",
       image: homeStay,
       github: "https://github.com/Aakash145/Homestay",
     },

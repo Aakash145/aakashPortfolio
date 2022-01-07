@@ -74,6 +74,10 @@ main{
     text-align: left;
 }
 
+.aboutSec{
+    margin-left: 15rem;
+}
+
 #details{
     margin-top: 0;
     margin-bottom: 1rem;
@@ -135,6 +139,9 @@ a{
         flex-direction: column;
     }
 
+    .aboutSec{
+        margin-left: auto;
+    }
     .contact h3{
         padding: 1.3rem 0rem;
         padding-left: 0rem;
@@ -157,6 +164,16 @@ a{
         border-top: 1px solid transparent;
         border-color: rgba(0,0,0,.125);
         width: 100%;
+    }
+
+}
+
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1024px) 
+and (-webkit-min-device-pixel-ratio: 1) {
+    .aboutSec{
+        margin-left: auto;
     }
 
 }
