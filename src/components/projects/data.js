@@ -10,9 +10,9 @@ export const projects = [
     title: "Stream Search (In Progress)",
     technology: "HTML5, CSS3, Bootstrap, JavaScript, JQuery, ReactJS, NodeJS",
     description:
-      "Web App to find out information about movies like their descriptiom, runtime, ratings and where are they streaming. It's the movie streaming search engine which also provides top rated movies which can be filtered based on different genres!. It also provides auto-suggestions based upon your search!",
+      "Full Stack Web Application to provides information about movies/series like the movie-plot, runtime, IMDB/ Rotten Tomatoes ratings along with where are they currently streaming (netflix, prime video, Apple +). In the Discover section, it also provides top rated movies which can be filtered based on different genres!. It also provides auto-suggestions based upon your search and all the data is based upon your geolocation!",
     image: streamSearch,
-    github: "https://determined-curran-0388f1.netlify.app/",
+    github: "https://streaming-search-engine.herokuapp.com/",
   },
     {
       title: "Home Stay",
@@ -48,7 +48,7 @@ export const projects = [
       },
     {
       title: "Barber Booking System",
-      technology: "HTML5, CSS3, Javascript, PhP, PostgreSQL",
+      technology: "HTML5, CSS3, JavaScript, PhP, PostgreSQL",
       description:
         "A Barber Appointment Booking System that would help barbers and customers book appointments in advance in the scenario's like Covid-19.",
       image: salon,

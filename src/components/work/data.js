@@ -10,10 +10,10 @@ import panago from '../../assets/images/panago.png'
 export const workExp = [
     {
       company: "Bosa Properties",
-      role: "Software Development Intern",
+      role: "Software Engineer Intern",
       type: "technical",
       responsibilites:
-      "Successfully led the design and implementation of automation testing infrastructure, established formal frameworks, standards and processes using technologies like Selenium.Responsible for development and execution of moderate to highly complex scripted automation tests improving the bug detection and report generation by 20%.Worked closely with development team, application support team on the design and implementation of enhancements to the existing application using .NET framework.Involved in development of elegant and responsive user interfaces using technologies like HTML5, CSS3, SASS and JavaScript libraries like React JS.Involved in the definition of the Test strategy and implementation of necessary infrastructure to support Test documentation, test plans and test cases",
+      "Successfully led the design and implementation of automation testing infrastructure, established formal frameworks, standards and processes using technologies like Selenium, NET framework and AWS CI/CD.Responsible for development and execution of moderate to highly complex scripted automation test scripts improving the bug detection and report generation by 20%.Worked closely with development team, application support team on the design and implementation of enhancements to the existing application using NET framework.Participated in the development of elegant and responsive user interfaces using technologies like HTML, CSS, SASS and JavaScript libraries like React JS.Involved in the definition of the Test strategy and implementation of necessary infrastructure to support Test documentation, test plans and test cases",
       image: bosa,
     },
     {
@@ -26,10 +26,10 @@ export const workExp = [
     },
     {
         company: "Shopclues",
-        role: "Software Developer",
+        role: "Full Stack Developer",
         type: "technical",
         responsibilites:
-        "Involved in the UI design and development for the e-commerce web application using HTML, CSS and ReactJS leading to websites scoring over 85 on Lighthouse.Integrated the web app with REST/SOAP and other APIs for Google maps, social media logins and payment processing’s like Paytm.Participated in code reviews with the product team and gained experience in writing custom, scalable code using .NET framework.Reduced the size of CSS and JavaScript files by almost 10% which reduced defects and page load times through monitoring the code whilst maintaining the UI",
+        "Involved in the UI design and development for the e-commerce web application using HTML, CSS and ReactJS leading to websites scoring over 85 on Lighthouse.Integrated the web app with REST/SOAP and other APIs for Google maps, social media logins and payment processing’s like Paytm.Participated in code reviews with the product team and gained experience in writing custom, scalable code using NET framework.Reduced the size of CSS and JavaScript files by almost 10% which reduced defects and page load times through monitoring the code whilst maintaining the UI",
         image: shopclues,
     },
     {

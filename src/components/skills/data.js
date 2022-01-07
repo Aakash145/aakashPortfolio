@@ -1,7 +1,7 @@
 export const skillSet = [
     {
         title: "Web Tech.",
-        tech: "HTML, CSS, SASS, JavaScript, NodeJS, BootStrap, JQuery, ReactJS"
+        tech: "HTML, CSS, Tailwind CSS, BootStrap, JavaScript, JQuery, NodeJS, ReactJS"
     },
     {
         title: "Language",

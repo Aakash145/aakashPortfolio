@@ -20,7 +20,7 @@ export default function About(){
             <h3>About me</h3>
             <p id="details">I love spending time on finding and fixing little issues along with learning new technologies.
             I've worked as a Full Stack Developer in a major e-commerce platform in India majorly working on transitioning from vanilla JavaScript to React! I've also got the chance 
-            to lead the design and implementation of Test Automation Infrastructure as SDET Intern at a real estate company in Vancouver, BC.
+            to lead the design and implementation of Test Automation Infrastructure as Software Engineer Intern at a real estate company in Vancouver, BC.
             </p>
             <small><Link to="/projects">Check out the stuff I've been working on in the Projects Section!</Link></small>
             </div>
