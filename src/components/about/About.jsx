@@ -7,7 +7,7 @@ export default function About(){
     return (
         <div className="aboutSection">
         <section>
-        <img src={ProfilePic} alt="Aakash Saini" />
+        <img src={ProfilePic} alt="Aakash Saini" id="imgProfile"/>
         <p id="intro1">Hi, my name is</p>
         <h3>Aakash Saini.</h3>
         <h2>I love<small>/(I try) </small>building things for the web!</h2>
