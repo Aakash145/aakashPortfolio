@@ -6,8 +6,17 @@ import nic from '../../assets/images/nic.jpeg'
 import staples from '../../assets/images/staples.png'
 import guardteck from '../../assets/images/guardteck.jpeg'
 import panago from '../../assets/images/panago.png'
+import cgi from '../../assets/images/cgi.png'
 
 export const workExp = [
+  {
+    company: "CGI",
+    role: "Full Stack Developer",
+    type: "technical",
+    responsibilites:
+    "Developed and maintained full-stack web application using modern technologies such as Spring MVC, Hibernate, ReactJS and Oracle SOA Suite. Collaborated with the design team to implement responsive design elements and enhance the UI of the website using HTML5/CSS3 and Prime Faces. Designed and implemented 10+ new custom forms for the client portal using tools like Orbeon smart forms and JSF. Created Reusable Modules and Custom Directives in Angular 2.0 using directives, controllers, routing, and service modules to maintain view data across various web pages. Involved in writing unit tests and perform code reviews to ensure the quality of the code is maintained across the application. Created non-technical descriptions of operations and workflow to enable the stakeholders to function with minimum interruption. Worked closely with the QA and Business Analyst team to fix bugs and ensure high-quality product releases.",
+    image: cgi,
+  },
     {
       company: "Bosa Properties",
       role: "Software Engineer Intern",
@@ -50,7 +59,7 @@ export const workExp = [
     },
     {
         company: "Guardteck Security",
-        role: "Admin Assistant",
+        role: "Security Officer",
         type: "non-technical",
         responsibilites:
         "Enforced the Shopping Mall’s rules and regulations and responded to calls from service varying from Tenant/Customer assists, thefts, fight to medical emergencies.Assisted the Management of the mall with daily administrative duties and documenting the incidents and daily log for monthly review",
@@ -72,5 +81,4 @@ export const workExp = [
           "Responsible for Sales of Technical Equipment. Assisted Customers by providing technical support",
         image: staples,
     }
-
   ];

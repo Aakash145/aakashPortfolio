@@ -11,7 +11,7 @@ export default function About(){
         <p id="intro1">Hi, my name is</p>
         <h3>Aakash Saini.</h3>
         <h2>I love<small>/(I try) </small>building things for the web!</h2>
-        <p id="intro2">I'm a Software Developer based in Vancouver, British Columbia. <br />
+        <p id="intro2">I'm a Software Developer based in the <span className="rainbow-text">BEAUTIFUL</span> British Columbia. <br />
         If you would like to have a conversation about movies, games and life, <small><a href="mailTo:aakashsaini769@gmail.com">Ping me!</a></small>
         </p>
         </section>
